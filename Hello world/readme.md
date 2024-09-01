@@ -1,5 +1,4 @@
-
-### **README.md**
+Here's the updated `README.md` file with the repository link included:
 
 ```markdown
 # Our First Program in C++
@@ -35,12 +34,12 @@ To run this program:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/MrManana1/C---Programming-Fundamentals--Complete-Beginner-s-Guide---.git
    ```
 
 2. **Navigate to the Directory:**
    ```bash
-   cd your-repository-name
+   cd C---Programming-Fundamentals--Complete-Beginner-s-Guide---
    ```
 
 3. **Compile the Program:**
@@ -60,3 +59,4 @@ You should see "Hello world" printed to the console.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
+Feel free to adjust any details as needed!
