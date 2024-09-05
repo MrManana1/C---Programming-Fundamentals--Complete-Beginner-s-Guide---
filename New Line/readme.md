@@ -74,4 +74,3 @@ This project is open-source and available under the MIT License.
 For any questions, please reach out at [logicwithmanan@gmail.com.com].
 ```
 
----
