@@ -6,7 +6,7 @@ int main()
     float num_1;
     float num_2;
 
-    int sum;
+    float sum;
 
     cout<<"Please enter yor first number: ";
     cin>>num_1;
